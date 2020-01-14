@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: f33dae9bfcb3c0e43a1e598f83c78dec
+  - enabled: 1
+    path: Assets/Scenes/Ruins_Demo_LowPoly.unity
+    guid: 6ea61ffa34b3feb4e8a3ca82759b9b34
+  m_configObjects: {}
