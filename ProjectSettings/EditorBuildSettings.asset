@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ruins_Demo_LowPoly.unity
     guid: 6ea61ffa34b3feb4e8a3ca82759b9b34
+  - enabled: 1
+    path: Assets/Scenes/maurin/Collaborate.unity
+    guid: d00819fa0d9d5a54d86c77e16327ca4d
   m_configObjects: {}
