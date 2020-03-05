@@ -67,6 +67,7 @@
     <Compile Include="Assets\LowPolyPack\Shaders\VertexShader\UpdateVertexColours.cs" />
     <Compile Include="Assets\Scripts\Common\SceneManager.cs" />
     <Compile Include="Assets\Scripts\FlawClog\MainBlock.cs" />
+    <Compile Include="Assets\Scripts\FlawClog\MainBlockSpawnPoint.cs" />
     <Compile Include="Assets\Scripts\HubScene\Door.cs" />
     <Compile Include="Assets\Scripts\HubScene\Portal.cs" />
     <None Include="Assets\LowPolyPack\Shaders\ToonShader\Shaders\AxeyWorksToonBasic.shader" />
